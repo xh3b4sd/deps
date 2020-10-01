@@ -1,4 +1,4 @@
-package main
+package deps
 
 const (
     Foo = "foo"
